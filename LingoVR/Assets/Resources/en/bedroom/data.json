@@ -1,0 +1,31 @@
+{
+	"env_name": "Bedroom",
+	"version": "0.1",
+	"language": "en",
+	"learningData": [{
+		"model": "Chair",
+		"name": "chair",
+		"translation": "chair",
+		"audio": "chair"
+	}, {
+		"model": "Computer",
+		"name": "computer",
+		"translation": "computer",
+		"audio": "computer"
+	}, {
+		"model": "Door",
+		"name": "door",
+		"translation": "door",
+		"audio": "door"
+	}, {
+		"model": "FlatScreenTV",
+		"name": "TV",
+		"translation": "電視/TV",
+		"audio": "TV"
+	}, {
+		"model": "Blanket",
+		"name": "Bed",
+		"translation": "床/BED",
+		"audio": "Bed"
+	}]
+}

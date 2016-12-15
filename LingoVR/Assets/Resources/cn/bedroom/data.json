@@ -1,0 +1,260 @@
+{
+	"env_name": "Bedroom",
+	"version": "0.1",
+	"language": "en",
+	"learningData": [{
+		"model": "Chair",
+		"name": "chair",
+		"translation": "椅子/CHAIR",
+		"audio": "chair",
+		"position": "above",
+		"examples": [ 
+			{
+				"text": "我坐在椅子上。",
+				"translation": "I am sitting on the chair.",
+				"audio": "chair_example_1"
+			}, 
+			{
+				"text": "這椅子很舒服。",
+				"translation": "It is comfortable to sit in this chair.",
+				"audio": "chair_example_2"
+			},
+			{
+				"text": "買張椅子。",
+				"translation": "Buy a chair.",
+				"audio": "chair_example_3"
+			}
+		]
+	}, {
+		"model": "Computer",
+		"name": "computer",
+		"translation": "電腦/COMPUTER",
+		"labelPosition": "above",
+		"audio": "computer",
+		"position": "above",
+		"examples":[
+			{
+				"text": "我在打電腦",
+				"translation": "I am using the computer.",
+				"audio": "computer_example_1"
+			}, 
+			{
+				"text": "這電腦功能很棒。",
+				"translation": "This computer's performance is great!",
+				"audio": "computer_example_2"
+			},
+			{
+				"text": "買台電腦。",
+				"translation": "Buy a computer.",
+				"audio": "computer_example_3"
+			}
+		]
+	}, {
+		"model": "Door",
+		"name": "door",
+		"translation": "門/DOOR",
+		"audio": "door",
+		"position": "front",
+		"examples":[
+			{
+				"text": "開門。",
+				"translation": "Open the door.",
+				"audio": "door_example_1"
+			}, 
+			{
+				"text": "關門。",
+				"translation": "Close the door.",
+				"audio": "door_example_3"
+			},
+			{
+				"text": "這門鎖上了",
+				"translation": "The door is locked.",
+				"audio": "door_example_3"
+			}
+		]
+	}, {
+		"model": "FlatScreenTV",
+		"name": "television",
+		"translation": "電視/TV",
+		"audio": "television",
+		"position": "above",
+		"examples":[
+			{
+				"text": "我在看電視。",
+				"translation": "I am watching TV.",
+				"audio": "tv_example_1"
+			}, 
+			{
+				"text": "電視螢幕髒了。",
+				"translation": "The TV screen is dirty.",
+				"audio": "tv_example_2"
+			},
+			{
+				"text": "這台電視很重。",
+				"translation": "This TV is heavy.",
+				"audio": "tv_example_3"
+			}
+		]
+	}, {
+		"model": "Blanket",
+		"name": "bed",
+		"translation": "床/BED",
+		"audio": "bed",
+		"position": "above",
+		"examples":[
+			{
+				"text": "上床睡覺。",
+				"translation": "Go to bed.",
+				"audio": "bed_example_1"
+			}, 
+			{
+				"text": "這張床很舒服。",
+				"translation": "This bed is comfortable.",
+				"audio": "bed_example_2"
+			},
+			{
+				"text": "他們昨晚上床了。",
+				"translation": "They slept together yesterday.",
+				"audio": "bed_example_3"
+			}
+		]
+	}, {
+		"model": "Desk",
+		"name": "desk",
+		"translation": "桌子/TABLE",
+		"audio": "desk",
+		"position": "center",
+		"examples":[
+			{
+				"text": "這張桌子上有電腦",
+				"translation": "There is a computer on the desk.",
+				"audio": "desk_example_1"
+			}, 
+			{
+				"text": "擦桌子。",
+				"translation": "Wipe the table.",
+				"audio": "desk_example_2"
+			}, 
+			{
+				"text": "桌邊服務。",
+				"translation": "Table service.",
+				"audio": "desk_example_3"
+			}
+		]
+	}, {
+		"model": "Lamp",
+		"name": "lamp",
+		"translation": "燈/LAMP",
+		"audio": "lamp",
+		"position": "above",
+		"examples":[
+			{
+				"text": "開燈。",
+				"translation": "Turn on the light.",
+				"audio": "lamp_example_1"
+			}, 
+			{
+				"text": "關燈。",
+				"translation": "Turn off the light.",
+				"audio": "lamp_example_2"
+			},
+			{
+				"text": "這燈非常亮。",
+				"translation": "The lamp is bright.",
+				"audio": "lamp_example_3"
+			}
+		]
+	}, {
+		"model": "Window",
+		"name": "window",
+		"translation": "窗戶/WINDOW",
+		"audio": "window",
+		"position": "front",
+		"examples":[
+			{
+				"text": "打開窗戶。",
+				"translation": "Open the window.",
+				"audio": "window_example_1"
+			}, 
+			{
+				"text": "關上窗。",
+				"translation": "Shut the window.",
+				"audio": "window_example_2"
+			},
+			{
+				"text": "這扇窗戶破了。",
+				"translation": "This window is broken.",
+				"audio": "window_example_3"
+			}
+		]
+	}, {
+		"model": "Shoes",
+		"name": "shoes",
+		"translation": "鞋子/SHOES",
+		"audio": "shoes",
+		"position": "above",
+		"examples":[
+			{
+				"text": "等等，我在穿鞋",
+				"translation": "Wait, I am wearing my shoes.",
+				"audio": "shoes_example_1"
+			}, 
+			{
+				"text": "這雙鞋子真美。",
+				"translation": "This pair of shoes is pretty.",
+				"audio": "shoes_example_2"
+			},
+			{
+				"text": "一隻鞋子掉了。",
+				"translation": "One of my shoes is missing.",
+				"audio": "shoes_example_3"
+			}
+		]
+	}, {
+		"model": "Book",
+		"name": "book",
+		"translation": "書/BOOK",
+		"audio": "book",
+		"position": "front",
+		"examples":[
+			{
+				"text": "我在讀書。",
+				"translation": "I am studying.",
+				"audio": "book_example_1"
+			}, 
+			{
+				"text": "書呆子。",
+				"translation": "Nerd.",
+				"audio": "book_example_2"
+			},
+			{
+				"text": "這本書很難。",
+				"translation": "This book is difficult.",
+				"audio": "book_example_3"
+			}
+		]
+	}, {
+		"model": "Wardrobe",
+		"name": "wardrobe",
+		"translation": "櫃子/CLOSET",
+		"audio": "wardrobe",
+		"position": "front",
+		"examples":[
+			{
+				"text": "打開櫃子。",
+				"translation": "Open the closet.",
+				"audio": "closet_example_1"
+			}, 
+			{
+				"text": "關上櫃子。",
+				"translation": "Close the closet.",
+				"audio": "closet_example_2"
+			},
+			{
+				"text": "這個櫃子真大。",
+				"translation": "This closet is huge!",
+				"audio": "closet_example_3"
+			}
+		]
+	}]
+}
